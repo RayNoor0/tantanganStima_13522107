@@ -1,4 +1,3 @@
-# take input
 
 def tsp(lastNode, visitedNode)
     if(visitedNode == $np-1)
@@ -45,6 +44,7 @@ def solve()
 end
 
 # awalprogram
+# take input
 $n = -1
 while ($n < 1) do
     puts "Masukkan jumlah simpul:"
